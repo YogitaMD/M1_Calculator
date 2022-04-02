@@ -18,7 +18,9 @@ This would be the first in a line of construction related calculators.
  As of 2016, basic calculators cost little, but scientific and graphing models tend to cost more.
 
 ## Defining Our System
-    -- TBD
+    -- This system helps solving mathematical problems in a easy way. It scans the keypad waiting to pick up an electrical signal when a key is pressed. Converts the numbers and functions into binary code. They are number stores where numbers are stored temporarily while doing calculations.
+  A basic explanation as to how calculations are performed in a simple four-function calculator:
+  To perform the calculation 25 + 9, one presses keys in the following sequence on most calculators: 25+9=34
     
     
 ## SWOT ANALYSIS :
@@ -72,7 +74,8 @@ The first solid-state electronic calculator was created in the early 1960s. Pock
  
 
 
- How:
+-- How:
+
 
 
 
