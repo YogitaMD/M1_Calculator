@@ -115,10 +115,9 @@ and hexadecimal (base 16), in addition to the usual decimal (base 10). The progr
 to be as easy to use as a regular calculator.
 
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+![1 mmm](https://user-images.githubusercontent.com/97722998/161424847-bba0b98c-3e92-46e5-bd75-bff161a59ebb.JPG)
+
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+![2 hhh](https://user-images.githubusercontent.com/97722998/161424858-bc2fbaf8-e66a-4a20-a3f2-7bdf477b3bdc.JPG)
