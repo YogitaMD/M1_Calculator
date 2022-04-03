@@ -92,13 +92,28 @@ The purpose of a calculator is to do correct calculations, and to do so efficien
 The working of the calculator is as follows:
  A basic explanation as to how calculations are performed in a simple four-function calculator:
   To perform the calculation 25 + 9, one presses keys in the following sequence on most calculators: 25+9=34
+  
+ ### Initial Look
+ ![first_png](https://user-images.githubusercontent.com/97722998/161419150-0cdc9263-cce2-4fa0-be7b-f0f2c7094125.png)
+
+ ### Working 
+ ![add_png](https://user-images.githubusercontent.com/97722998/161419192-fe7a3e8f-4495-49a4-b918-392b2542f4df.png)
+ 
+ ### TestCases
+ ![add_png](https://user-images.githubusercontent.com/97722998/161419228-9769f28c-46a4-4df6-8a57-de9e9b5d2bc9.png)
+
+ 
+
+ 
     
-
-
-
-
-
 # Detail requirements
+This Calculator specifies the functional requirements for a multi-function calculator program.
+The program is designed to act like a “handheld calculator” with the usual standard functions
+(add, subtract, multiply, divide, exponentiation, and memory). Additionally, the calculator
+will have the additional capability of performing functions in binary (base 2), octal (base 8)
+and hexadecimal (base 16), in addition to the usual decimal (base 10). The program is designed
+to be as easy to use as a regular calculator.
+
 ## High Level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
