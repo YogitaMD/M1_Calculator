@@ -100,7 +100,7 @@ The working of the calculator is as follows:
  ![add_png](https://user-images.githubusercontent.com/97722998/161419192-fe7a3e8f-4495-49a4-b918-392b2542f4df.png)
  
  ### TestCases
- ![add_png](https://user-images.githubusercontent.com/97722998/161419228-9769f28c-46a4-4df6-8a57-de9e9b5d2bc9.png)
+   ![test_png](https://user-images.githubusercontent.com/97722998/161419383-f36c4b02-a955-4bee-866b-c02c4364d0da.png)
 
  
 
